@@ -2,8 +2,8 @@
     "__JSON__": true,
     "AUTHOR": "Vajira",
     "theme": "Vajira-Md",
-    "LANGUAGE": "EN",
-    "LANGCODE": "si",
+    "LANGUAGE": "English",
+    "LANGCODE": "EN",
     "STRINGS": { 
         "updater": { 
             "UPDATE": "*Believe it.\nඔබේ බොට් දැනටමත් යාවත්කාලීනයි*",
@@ -34,20 +34,20 @@
             "session": "\n*මෙය ඔබගේ session.json වේ, එය ආරක්ෂිතව තබා එය නිසි ලෙස ගබඩා කරන්න*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Vajira_Md*",
             "mention": " කරුණාකර මගේ හිමිකරු සඳහන් කරන්න",
             "title": "Vajira-Md",
-            "footer": "ᴠᴀᴊɪʀᴀ ᴛᴇᴄʜ ɪɴғᴏ \n www.youtube.com/c/SuhailTechInfo",
+            "footer": "your nonesence is done by gee",
             "by": "Made by: Vajira Tech Info",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Done ✓",
-            "dot": "හායි, ඔබ අදහස් කළේ *-help?*\n නිකන්.. මම රාමන් කනකොට මට කරදර කරන්න එපා",
-            "couple_male": "*මට හොඳටම විශ්වාසයි මට උදව් නොකර ජීවත් වෙන්න බෑ කියලා!*",
-            "couple_female": "*මට හොඳටම විශ්වාසයි මට උදව් නොකර ජීවත් වෙන්න බෑ කියලා!*",
-            "admin": "මෙම විධානය කණ්ඩායම් පරිපාලක සඳහා පමණි⚠️!",
-            "botAdmin": "කරුණාකර මට පරිපාලක භූමිකාව ලබා දෙන්න.❗",
-            "owner": "මෙම විධානය මගේ හිමිකරු සඳහා පමණි⚠️",
-            "group": "මෙම විශේෂාංගය සමූහය සඳහා පමණි❗",
-            "private": "මෙම විශේෂාංගය මගේ හිමිකරු සඳහා පමණි⚠️",
+            "dot": "we mzee,,tumia dot",
+            "couple_male": "*thats where your girlfriend comes in!*",
+            "couple_female": "i can still take you despite being in a relationship!*",
+            "admin": "only for group admin⚠️!",
+            "botAdmin": "only for  bot admin.❗",
+            "owner": "this is only for gee",
+            "group": "do your nonesence in the group only",
+            "private": "do your nonesence in dm",
             "bot": "මෙම විධානය මගේ හිමිකරු සඳහා පමණි⚠️",
-            "wait": "ඔබගේ ඉල්ලීම සැකසීම✅"
+            "wait": "wait a minute nigga"
         },
         "error": {
             "text": "*You may come to regret trying to manipulate me.\nNow go get this Error fixed*"
